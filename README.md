@@ -21,7 +21,6 @@ I enjoy collaborating with other developers, solving challenging problems, and t
   <li>💡 Strong interest in <b>AI, Machine Learning, and Data-Driven Applications</b></li>
   <li>🛠 Experienced in building <b>CRM solutions, chatbots, and scalable web apps</b></li>
   <li>🤝 Open to collaborating on <b>open source and real-world impactful projects</b></li>
-  <li>⚡ Fun fact: I love mixing tech with creativity — whether it’s coding, designing, or creating memes for my page <a href="https://instagram.com/tech.strikers"><b>Tech.Strikers</b></a></li>
 </ul>
 
 ---
