@@ -83,73 +83,11 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 <h2 align="left">💼 Experience</h2>
 
 **Software Developer — Covalense Digital Solutions**  
-*Mar 2025 – Present | Bengaluru, India*  
+*June 2023 – Present | Visakhapatnam, India*  
 - Contributing to the development of the company’s core **CRM product** built on **Laravel**.  
 - Designing and implementing new backend features to meet client requirements.  
 - Built and optimized **REST APIs** and **MySQL queries**, improving performance and data consistency.  
-- Integrated **SigNoz** for APM, using **Docker** for containerization and **Apache Kafka** for event streaming.  
 - Collaborated with product and QA teams to debug production issues and enhance scalability.  
 
----
 
-**Intern — Hindustan Aeronautics Limited (HAL)**  
-*Jun 2023 – Jul 2023 | Bengaluru*  
-- Learned about testing workflows and participated in **simulating elevon movement in aircraft**.  
-- Built an **aircraft model using Arduino** to simulate pitch and roll dynamics.  
 
----
-
-<h2 align="left">🚀 Projects</h2>
-
-**📚 Tech Enlightenment**  
-*HTML | CSS | JavaScript*  
-- Built a fully functional website providing curated resources for developers and students.  
-- Included roadmaps, programming books, notes, and event updates.  
-[🔗 GitHub](https://github.com/chethan7032)
-
----
-
-**🍔 Taste Dash**  
-*React.js | Node.js | Express.js | MongoDB | HTML | CSS*  
-- Developed a **food ordering application** with add-to-cart functionality.  
-- Designed user-friendly UI and optimized backend for efficient order processing.  
-[🔗 GitHub](https://github.com/chethan7032/Taste-Dash-Food-ordering-app-)
-
----
-
-**🚗 Parking Spot Indicator**  
-*Python (OpenCV) | Firebase | HTML | CSS*  
-- Created a web-based system to manage parking availability using **computer vision**.  
-- Provided real-time updates on slot status with **admin & user dashboards**.  
-[🔗 GitHub](https://github.com/chethan7032/parking-slot-indicator-main-project-)
-
----
-
-**Other Freelance Projects**  
-- Delivered **20+ college-level projects** as a freelance consultant.  
-- Spanned domains like **chatbots, CRMs, dashboards, and automation tools**.
-
----
-
-<h2 align="left">🏆 Achievements</h2>
-
-- 📸 Grew my Instagram tech page **[Tech.Strikers](https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4)** to 30,000+ followers.  
-- 🎓 Awarded **RDT Scholarship** for academic excellence.  
-- 💼 Delivered 20+ freelance projects for university students.  
-- 🧩 Solved 350+ coding challenges on multiple platforms.  
-
----
-
-<h2 align="left">📫 Connect with Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/g-chethan-reddy-33924b25a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:jyojosh229@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
