@@ -66,20 +66,6 @@ I enjoy collaborating with other developers, solving challenging problems, and t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chethan7032&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chethan7032&layout=compact&langs_count=5&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=chethan7032&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chethan7032&theme=dracula&column=4" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethan7032&theme=react-dark&area=true" height="300" />
-</div>
-
----
-
 <h2 align="left">💼 Experience</h2>
 
 **Software Developer — Covalense Digital Solutions**  
